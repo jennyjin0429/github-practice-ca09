@@ -62,3 +62,4 @@
 |30|Zimeng Zhou | 13 | zimengzhouzm | <https://github.com/zimengzhouzm/mywebsite_new.git> | <https://zimengzhou-new.netlify.app/> |2020-10-05 |
 |31|Clara Liu | 18 | clarachangliu | <https://github.com/clarachangliu/my_website.git> | <https://clarachangliu.netlify.app/> | 2020-10-5 |
 |32|Xiwen Wang | 23 | xiwenwang233 | <https://github.com/xiwenwang233/my_website99> | <https://xiwenwang233.netlify.app> | 2020-10-5 |
+|33|Lucheng(Jenny) Jin | 30 | jennyjin0429 | <https://github.com/jennyjin0429/my_website99.git> | <https://jennyjin0429-portfolio.netlify.app/> | 2020-10-5 |
